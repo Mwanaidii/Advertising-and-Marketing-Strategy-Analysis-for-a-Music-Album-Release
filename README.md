@@ -28,7 +28,7 @@ The prevailing business challenge is to optimize the marketing and advertisement
 
 ✓ Evolving Consumer Preferences: The music consumption landscape is continuously shifting, driven by rapid changes in technology and consumer behavior. Staying attuned to these dynamic preferences is imperative, as it demands continuous adaptation and innovation in our marketing approach to effectively connect with the target audience on the platforms they favor.
 
-### Rationale for the Project
+## Rationale for the Project
  
 Marketing & Advertising analysis will help SunMusic reduce business risks, effectively connect with the target audience, provide the right songs, and align with the latest music trends. It provides the data and insights necessary to develop a targeted and effective marketing strategy that aligns with the business objective of achieving global recognition and success. These will address the business problems through:
 
